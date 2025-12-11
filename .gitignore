@@ -1,0 +1,39 @@
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+# Maven
+target/
+.mvn/
+
+# Build files
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Spring Boot
+application-local.yml
+application-dev.yml
+application-prod.yml
+
+# Node modules (if any)
+node_modules/
+npm-debug.log
+
+# OS
+Thumbs.db
+.DS_Store
